@@ -1,4 +1,4 @@
-# [fuzzysort](https://raw.github.com/farzher/fuzzysort/master/fuzzysort.js)
+# [fuzzysort](https://raw.github.com/alexf2017/fuzzysort/master/fuzzysort.js)
 
 Fast SublimeText-like fuzzy search for JavaScript.
 
@@ -8,7 +8,7 @@ Sublime's fuzzy search is... sublime. I wish everything used it. So here's an op
 
 ## [Demo](https://rawgit.com/farzher/fuzzysort/master/test.html)
 
-https://rawgit.com/farzher/fuzzysort/master/test.html
+https://rawgit.com/alexf2017/fuzzysort/master/test.html
 
 ![](http://i.imgur.com/1M6ZrgS.gif)
 
